@@ -1,0 +1,9 @@
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\bin\Debug\ODBCCotizacionOnline.exe
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\bin\Debug\ODBCCotizacionOnline.pdb
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\bin\Debug\ODBCCotizacionOnline.xml
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\obj\Debug\ODBCCotizacionOnline.Resources.resources
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\obj\Debug\ODBCCotizacionOnline.vbproj.GenerateResource.Cache
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\obj\Debug\ODBCCotizacionOnline.exe
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\obj\Debug\ODBCCotizacionOnline.xml
+D:\Documents\BIZAPPS\Mis\ODBC-DUSA\ODBCCotizacionOnline\ODBCCotizacionOnline\obj\Debug\ODBCCotizacionOnline.pdb
